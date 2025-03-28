@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset= "UTF-8">
+  <title>Mulukhiyah</title>
+</head>
+  <body>
+    <h1>Molokhia Recipe</h1>
+    <p>
+      Molokhia (Jute Mallow) – fresh or frozen
+Broth – chicken, beef, or vegetable
+Garlic – minced
+Coriander – ground or fresh
+Butter or Olive Oil
+Salt
+Black Pepper
+Lemon Juice (optional)
+Protein (optional) – chicken, beef, or seafood
+</p>
+<h2>Ingredients</h2>
+<ul>
+<li>1 bunch fresh molokhia (or 200g frozen molokhia)</li>
+<li>4 cups chicken broth (or beef broth)</li>
+<li>2-3 cloves garlic, minced</li>
+<li>1 tablespoon coriander (ground or fresh, chopped)</li>
+</ul>
+<li>2 tablespoons butter or olive oil</li>
+<li>1 teaspoon salt (adjust to taste)</li>
+<li>1 teaspoon black pepper</li>
+<li>Juice of 1 lemon (optional, for serving)</li>
+<li>1 whole chicken or beef chunks (optional, for a richer flavor)</li>
+<h2>Instructions</h2>
+<ol>
+<li>Prepare the Molokhia:
+If using fresh molokhia, remove the leaves from the stems and finely chop them. If using frozen, let it thaw slightly.</li>
+<li>Prepare the Broth:
+Boil chicken or beef with onions, bay leaves, and spices to make a flavorful broth. Strain and keep it hot.</li>
+<li>Sauté Garlic and Coriander:
+
+In a pan, heat butter or oil, add minced garlic, and cook until golden. Add coriander and stir for a few seconds.</li>
+<li>Cook the Molokhia:
+
+Add the molokhia to the broth, stirring continuously. Simmer for 5-7 minutes on low heat (do not overcook).</li>
+<li>Final Touches:
+
+Add salt, pepper, and a squeeze of lemon. Serve with rice or pita bread, and optionally with chicken or beef on the side.</li>
+<img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt ="A bowl of Molokhia, a traditional Egyptian green soup made from jute mallow leaves, served with rice or bread, a staple of Egyptian cuisine enjoyed along the Nile.">
+</body>
+</html>
